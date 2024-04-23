@@ -1,0 +1,31 @@
+.dropout-policy {
+  padding: 1rem;
+  margin-left:100px ;
+}
+h1 {
+  font-size: 2rem;
+}
+ul {
+  list-style: none;
+}
+li {
+  margin-bottom: 1rem;
+}
+button {
+  background-color: red;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+}
+#drop {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Card {
+  display: flex;
+  border-spacing: 10px;
+  float: left;
+  justify-items: flex-start;
+  align-items: center;
+}

@@ -1,0 +1,45 @@
+.info1{
+  
+    display: flex;
+    align-content: normal;
+}
+.info2{
+    margin-left: 145px;
+    display: flex;
+    align-content: normal;
+}
+
+.info3{
+    margin-left: 145px;
+    display: flex;
+    align-content: normal;
+}
+
+.info{
+    
+    display: flex;
+}
+
+.line{
+    height:50px;
+    padding-top: 25px;
+    padding-bottom: 40px;
+    margin-bottom: 24px;
+    width: 1370px;
+    position:relative;
+    left: 2px;
+    border-bottom: 2px solid rgb(182, 179, 179);
+    color: rgb(182, 179, 179);
+    font-size: 20px;
+}
+.line span{
+    position: relative;
+    left:50px;
+}
+
+.ant-select.css-dev-only-do-not-override-mxhywb.ant-select-single.ant-select-show-arrow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 15px;
+}

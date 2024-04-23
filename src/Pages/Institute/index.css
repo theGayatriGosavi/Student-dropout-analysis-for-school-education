@@ -1,0 +1,75 @@
+.ant-statistic-title{
+    color:white !important;
+}
+.stats .ant-statistic-content-value-int{
+    color:rgba(139, 92, 246, 1) !important;
+}
+
+
+.line{
+    height:50px;
+    padding-top: 25px;
+    padding-bottom: 40px;
+    margin-bottom: 24px;
+    width: 1370px;
+    position:relative;
+    left: 2px;
+    border-bottom: 2px solid rgb(182, 179, 179);
+    color: rgb(182, 179, 179);
+    font-size: 20px;
+}
+.line span{
+    position: relative;
+    left:50px;
+}
+
+.ant-divider{
+    color: rgb(182, 179, 179) !important;
+    border-block-start: rgb(182, 179, 179) !important;
+}
+
+.dropoutForm{
+    width:1000px;
+    height: 1080px;
+    border: 2px solid rgba(31, 41, 55, 1);
+    background-color: rgba(31, 41, 55, 1);
+    border-radius: 15px;
+    box-shadow: 1px 1px 1px 1px rgb(182, 179, 179);
+    position:relative;
+    left:200px;
+    padding: 24px 16px;
+    overflow-y: hidden;
+}
+
+.ant-form{
+    border-radius: 15px;
+    padding: 24px 16px;
+    background-color: #eee;
+    margin: 0 auto;
+    position: relative;
+    top: 50px;
+}
+
+form button{
+    color: white !important;
+}
+
+.ant-steps-item-title{
+    color: white !important;
+}
+
+.upload{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.upload form{
+    background-color: #eee;
+    border-radius: 15px;
+    padding: 15px 16px;
+}
+.upload button{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
